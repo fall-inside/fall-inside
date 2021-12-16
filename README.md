@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fall-inside
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Node.js
+- 🌱 I use Vue.js
 
 
 <!---
